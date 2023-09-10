@@ -5,6 +5,8 @@
 // @description  Quick download button for reddit posts
 // @author       Feridinha
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
+// @updateURL    https://raw.githubusercontent.com/Feridinha/reddit-save/main/tampermonkey.user.js
+// @domain       raw.githubusercontent.com
 // @grant        none
 // @match https://*/*
 // ==/UserScript==
