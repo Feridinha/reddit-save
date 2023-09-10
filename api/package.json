@@ -2,7 +2,7 @@
     "scripts": {
         "dev": "bun run --hot src/index.ts",
         "start": "bun run src/index.ts",
-        "build": "bun build src --outdir dist"
+        "build": "bun build src --outfile index.js"
     },
     "dependencies": {
         "bun": "^1.0.0",
